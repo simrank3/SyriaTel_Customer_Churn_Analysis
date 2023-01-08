@@ -4,7 +4,7 @@ Author: Simran Kaur
 
 ## Problem
 
-SyriaTel is a telecommunications company in Syria. They have been informed that some of their customers have started to churn, aka, discontinue their service. Syriatel wants to understand what are some indicators that a customer will ("soon") discontinue their service.
+SyriaTel is a telecommunications company in Syria. They have been informed that some of their customers have started to churn, discontinue their service. Syriatel wants to understand what are some indicators that a customer will ("soon") discontinue their service.
 
 This analysis uses logistic models to determine what is causing customers to churn and possible preventative measures that taken. 
 
@@ -29,7 +29,7 @@ The second step in the process was the modeling.
 * A random forest classifier was ran. 
 * A decision tree classifier was ran. 
 * The random forest model had the best accuracy and F1 score. 
-* Hypertuning was performed on the random forest model and it yeilded similar results as the original model ran.
+* Hypertuning was performed on the random forest model and it yielded similar results as the original model ran.
 
 ## Results
 
@@ -47,7 +47,7 @@ SyriaTel should start focusing on strategies that will prevent customers from ch
 
 ## Further Information
 
-See the full analysis in the Jupyter Notebook or review this presentation.
+See the full analysis in the [Jupyter Notebook](https://github.com/simrank3/phase-3-project/blob/main/notebook.ipynb) or review the [presentation](https://github.com/simrank3/phase-3-project/blob/main/presentation3.pdf).
 
 For additional information, contact Simran Kaur at simran.kaur@flatironschool.com
 
