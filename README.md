@@ -8,9 +8,9 @@ SyriaTel is a telecommunications company in Syria. They have been informed that 
 
 This analysis uses logistic models to determine what is causing customers to churn and possible preventative measures that taken. 
 
-## Data 
+## Data
 
-The dataset was taken from kaggle.com. It contains 3,333 records and has information on clients' accounts with SyriaTel. This includes minutes they have used, how many day/evening/international calls have been made, the number of times a customer has called customer service and if the customer has churned. 
+The dataset was taken from [kaggle.com](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset). It contains 3,333 records and has information on customers who have/had accounts with SyriaTel. This includes minutes they have used, how many day/evening/international calls have been made, the number of times a customer has called customer service and if the customer has churned. These features will be help in determining if there is a pattern in customers that have churned versus customers that have not.
 
 ## Methods
 
