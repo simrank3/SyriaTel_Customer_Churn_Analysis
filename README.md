@@ -47,7 +47,7 @@ SyriaTel should start focusing on strategies that will prevent customers from ch
 
 ## Further Information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/simrank3/phase-3-project/blob/main/notebook.ipynb) or review the [presentation](https://github.com/simrank3/phase-3-project/blob/main/presentation.pptx).
+See the full analysis in the [Jupyter Notebook](https://github.com/simrank3/phase-3-project/blob/main/notebook.ipynb) or review the [presentation](https://github.com/simrank3/phase-3-project/blob/main/presentation.pdf).
 
 For additional information, contact Simran Kaur at simran.kaur@flatironschool.com
 
